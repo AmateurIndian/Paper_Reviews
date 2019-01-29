@@ -9,9 +9,8 @@ _Find full article [here](http://science.sciencemag.org/content/334/6062/1518)._
 - The paper introduces the MIC which is aimed at finding relations between features that do not necessarily follow any linear pattern.
 - Usually aimed at high dimensional dataset with fewer observations than variables.
 - Utilizes two heuristics:
-
-* Generality: Ability to detect a large range of relationships
-* Equitability: Similar scoring of noisy relationships
+  - Generality: Ability to detect a large range of relationships
+  - Equitability: Similar scoring of noisy relationships
 
 ### Paper’s significant contributions and potential use
 
