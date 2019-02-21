@@ -48,4 +48,4 @@ SCIENCE DEC 16, 2011,” sciencemag, vol. 334. pp. 1518–1524, 16-Dec-2011.
 -information-coefficient-part-ii/. [Accessed: 20-Jan-2019].
 ```
 
-For more short reviews on machine learning and data mining scientific reviews, please follow me on twitter [@SarjeelY](https://twitter.com/SarjeelY).
+For more short reviews on machine learning and data mining scientific papers, please follow me on twitter [@SarjeelY](https://twitter.com/SarjeelY).

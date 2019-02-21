@@ -47,4 +47,4 @@ References:
 2. S. Wang, D. Wang, C. Li, and Y. Li, “Comment on "Clustering by fast search and find of density peaks",” arXiv.org, Jan. 2015.
 ```
 
-For more short reviews on machine learning and data mining scientific reviews, please follow me on twitter [@SarjeelY](https://twitter.com/SarjeelY).
+For more short reviews on machine learning and data mining scientific papers, please follow me on twitter [@SarjeelY](https://twitter.com/SarjeelY).
