@@ -1,8 +1,8 @@
 # Amateur Academic Paper Reviews
 
-Short reviews of scientific papers in the field of Machine Learning and Data Mining
+Short reviews of scientific papers in the field of Machine Learning and Data Mining.
 
-_**PS**, I am no academician and the comments here are personally mine and out of love and interest of the developments in the field of Machine Learning. They're not professional and I would always love **feedback and comments**. The purpose of this is to **spike interest in academic research** and **highlight the amazing achievements** of some of the most brilliant minds out there._
+_**PS**, I am no academician and the comments here are personally mine and out of love and interest of the developments in the field of Machine Learning. They're not professional and I would always love **feedback and comments**. The purpose of this is to **spike interest in academic research** and **highlight the amazing achievements** of some of the most brilliant minds out there. My aim is to make this an **open source** platfrom for people to share their reviews. _
 
 ### Papers Reviewed
 
@@ -11,4 +11,4 @@ _**PS**, I am no academician and the comments here are personally mine and out o
 | [Detecting Novel Associations in Large Data Sets](http://science.sciencemag.org/content/334/6062/1518)                                                            | David N. Reshef, Yakir A. Reshef, Hilary K. Finucane5, Sharon R. Grossman, Gilean McVean3, Peter J. Turnbaugh, Eric S. Lander, Michael Mitzenmacher, Pardis C. Sabeti |   10.1126/science.1205438    |   [1](.//Review_1/Reshef_et_al.md)    |
 | [Sex Bias in Graduate Admissions: Data from Berkeley](http://science.sciencemag.org/content/187/4175/398)                                                         |                                                              P. J. Bickel, E. A. Hammel, J. W. O'Connell                                                              | 10.1126/science.187.4175.398 |   [2](.//Review_2/Bickel_et_al.md)    |
 | [Clustering by Fast Search and Find of Density Peaks](http://science.sciencemag.org/content/344/6191/1492)                                                        |                                                                    Alex Rodriguez, Alessandro Laio                                                                    |   10.1126/science.1242072    | [3](./Review_3/Rodrigues_and_Laio.md) |
-| [Reverse Nearest Neighbors in Unsupervised Distance-Based Outlier Detection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.699.9559&rep=rep1&type=pdf) |                                                    Milos Radovanovic, Alexandros Nanopoulos, and Mirjana Ivanovic                                                     |       10.1.1.699.9559        | [3](./Review_4/Radovanovic_et_al.md)  |
+| [Reverse Nearest Neighbors in Unsupervised Distance-Based Outlier Detection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.699.9559&rep=rep1&type=pdf) |                                                    Milos Radovanovic, Alexandros Nanopoulos, and Mirjana Ivanovic                                                     |       10.1.1.699.9559        | [4](./Review_4/Radovanovic_et_al.md)  |
